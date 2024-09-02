@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Heading from "../components/Heading";
+import Heading from "../Components/Heading";
 import { Link } from "react-router-dom";
 
 function Search() {
